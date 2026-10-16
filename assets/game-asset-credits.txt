@@ -1,0 +1,214 @@
+# Asset credits
+
+Licensed meshes and textures were scaled, optimized and converted for Unity/Quest. Tree foliage preserves complete source texture charts; ground contacts and distant cards were adapted. Named shrubs use scans of Corylus avellana and Sambucus nigra leaves on licensed woody branches. Wildlife retains downloaded meshes and textures; lightweight locomotion and resting rigs were added for this game. JUST's gloves were split and adapted for controller grip.
+
+## Free commercial use
+
+Version 0.5 replaces the former noncommercial fox and deer and the personal-use animated sparrow with CC BY models. The active sources below are free to obtain and permit commercial use under their stated terms. CC BY assets require attribution. The cat uses Sketchfab Free Standard; other active assets use CC BY, CC0 or public domain dedications. The adapted dog recording remains CC BY-SA 3.0. Do not use retired source files or old 0.4 builds for commercial distribution. See Builds/license-audit.json for the metadata audit.
+
+JUST's licensed glove mesh was also reshaped into four static basket contact poses (left/right, large/small); its source UVs and texture remain. New mushroom scans were isolated from soil or bark, oriented, rescaled, simplified into LODs and given individual grips. Source author identifications are retained; uncertain specimens are not accepted as recipe ingredients.
+
+Multiplayer avatar 12: Girl with clothes. Worker set by cattleya (CC BY 4.0). Original clothing, skin, hair, skeleton and textures retained; meshes joined, size adapted, mobile materials and controller-driven posing added. Model 15 is excluded because commercial rights to its Wolf3D components are unverified.
+
+- [Armillaria Mellea](https://sketchfab.com/3d-models/armillaria-mellea-0561d44b1fae472d972cc2ca9049b95a) — cesar.lomas, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Beech tree](https://sketchfab.com/3d-models/beech-tree-0983d8933531491f9be71c669e8a907b) — evolveduk, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Hazel Tree](https://sketchfab.com/3d-models/hazel-tree-0d345f65125747d0b9f2223e603d0a0a) — rhcreations, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Mushrooms - Blue Oyster](https://sketchfab.com/3d-models/mushrooms-blue-oyster-0de8bc6c368f4870a8ece254783feeec) — Hialda Alpizar, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [CC0 シロオニタケ 🍄 False Virgin's Lepidella](https://sketchfab.com/3d-models/cc0-false-virgins-lepidella-0e8915aecf11497e906f839d157bfd0b) — ffish.asia / floraZia.com, [CC0 Public Domain](http://creativecommons.org/publicdomain/zero/1.0/).
+- [Heather](https://sketchfab.com/3d-models/heather-109204e9a5c74ec390f374ac62e92196) — Arnau Rocher Alcayde, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Dog](https://sketchfab.com/3d-models/dog-10cd2e1da68743ae8be636ff747d473b) — ilan2006er, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Sparrow](https://sketchfab.com/3d-models/sparrow-11b5b94688bc4ee380849585086da98a) — Chenchanchong, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Toilet](https://sketchfab.com/3d-models/toilet-132a8ee2af3a40d39d270fbed3d3666c) — HippoStance, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [CC0 アミガサタケ 🍄 Common Morel, Morchella esculenta](https://sketchfab.com/3d-models/cc0-common-morel-morchella-esculenta-1a1647d50d3d4ea1b4e59375d91ca6bc) — ffish.asia / floraZia.com, [CC0 Public Domain](http://creativecommons.org/publicdomain/zero/1.0/).
+- [(Free) Realistic Blackberry](https://sketchfab.com/3d-models/free-realistic-blackberry-2156342d985749b6ad9d362341277231) — PolyDavid, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Russula cyanoxantha （カワリハツ）](https://sketchfab.com/3d-models/russula-cyanoxantha-22f32f1e8a964198b3b8f7db98fa4239) — daicha2021, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Mushroom Begbie](https://sketchfab.com/3d-models/mushroom-begbie-23be0719bed74fd2a49fdd45332db597) — Replik8 Studios, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Cortinarius violaceus mushroom](https://sketchfab.com/3d-models/cortinarius-violaceus-mushroom-2b35ebe5114a40b09cc627ff8dd4cf3e) — JevinJones, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [red mushroom Russula](https://sketchfab.com/3d-models/red-mushroom-russula-2e0b973ec97f455d94fd610a4b8c84f0) — Andykk, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Red Fox Standing Pose Realistic](https://sketchfab.com/3d-models/red-fox-standing-pose-realistic-3278bddb17024f3287aa374cc1e9f6f6) — Pigcraft, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Red Polypore](https://sketchfab.com/3d-models/red-polypore-379ea0b57d964bea8e892a2e73c2998b) — RISD Nature Lab, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Sambucus Nigra 3](https://sketchfab.com/3d-models/sambucus-nigra-3-3ee4aa7633084af5a064373314b0548a) — mglnx, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Tricholoma murrillianum mushroom](https://sketchfab.com/3d-models/tricholoma-murrillianum-mushroom-4949f967e01c480388c5b32c48598c22) — JevinJones, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Russula sardonia](https://sketchfab.com/3d-models/russula-sardonia-4a86a5a7d4a445f1a542163578aaa0fa) — Tadeas Kribek, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Girl with clothes. Worker set](https://sketchfab.com/3d-models/girl-with-clothes-worker-set-4cf10e2dde6d4b12b6dccd25a4cf3b77) — cattleya, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Animated Deer](https://sketchfab.com/3d-models/animated-deer-4cff1e63f4e941198b3d56300b3393b9) — igor-lir, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Mighty Oak Trees](https://sketchfab.com/3d-models/mighty-oak-trees-4f6ab5594a8a415aba3f958682b9ced5) — Jagobo, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Plant Pot Ivy](https://sketchfab.com/3d-models/plant-pot-ivy-507dae90a1f541e0a3e2ccbee5abc333) — anybody, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Clitocybe nebularis](https://sketchfab.com/3d-models/clitocybe-nebularis-5926e71980c043c68f16b836bd0184e2) — Tadeas Kribek, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Hand With Gloves](https://sketchfab.com/3d-models/hand-with-gloves-5a6a434b8ec943ffacc581358781eecb) — JUST, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Orange Lactarius](https://sketchfab.com/3d-models/orange-lactarius-63313cb77cad48618cc02cf57f851061) — Skyler Young, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Orange Birch Bolete](https://sketchfab.com/3d-models/orange-birch-bolete-65602efb8e14441f8c05e0b93767dee1) — Nik, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Ovčarska lupljivka Suillus granullatus](https://sketchfab.com/3d-models/ovcarska-lupljivka-suillus-granullatus-7121bfed5348455cb3bd17274101c648) — Prirodoslovni muzej Slovenije, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Chanterelle Mushroom](https://sketchfab.com/3d-models/chanterelle-mushroom-75e3ea25e90a45028a058701d6f0c22c) — MTR Magic Key 🗝️, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Realistic Deer](https://sketchfab.com/3d-models/realistic-deer-76039b75cdc0492a80680c2404725496) — pighunt3r15, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Mushroom](https://sketchfab.com/3d-models/mushroom-767a395d901d40128eb6c18bc64bd202) — Asia Matusik, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [(Free) Raspberry](https://sketchfab.com/3d-models/free-raspberry-7812cccf18114ecfaea2e250b7162040) — PolyDavid, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Shaggy Parasol Mushroom (Mature + Young)](https://sketchfab.com/3d-models/shaggy-parasol-mushroom-mature-young-7987d22903294567842a5304fcd542f5) — Thomas Flynn, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Zelenkasta Golobica Russula virescens](https://sketchfab.com/3d-models/zelenkasta-golobica-russula-virescens-7da28231cfa4437ba81a011fb8aa26c1) — Prirodoslovni muzej Slovenije, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Macrolepiota procera](https://sketchfab.com/3d-models/macrolepiota-procera-80edb9e8104f4995aac3dd0dcd3fc4d6) — Tadeas Kribek, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Cantharellus formosus mushroom](https://sketchfab.com/3d-models/cantharellus-formosus-mushroom-81b06e5fb337405b9d277048a39758f8) — JevinJones, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Stock Pot Range](https://sketchfab.com/3d-models/stock-pot-range-8d64956f6b284dab9a114396d8223faf) — Luis Fernando Rómulo, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [CC0 ハナイグチ？ 🍄 Slippery Jack Mushroom](https://sketchfab.com/3d-models/cc0-slippery-jack-mushroom-90b3553fb3fd479eac39b616078f56cf) — ffish.asia / floraZia.com, [CC0 Public Domain](http://creativecommons.org/publicdomain/zero/1.0/).
+- [fern grass 02](https://sketchfab.com/3d-models/fern-grass-02-93d1f6a261e24b8394d0ea41cf985ef9) — POLYSCAN, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Fly Agaric (Amanita muscaria) Mushroom | UK](https://sketchfab.com/3d-models/fly-agaric-amanita-muscaria-mushroom-uk-9ca8f239deb940f6aee3355e33bb594f) — Arb Innovators, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Russula cyanoxantha (カワリハツ）](https://sketchfab.com/3d-models/russula-cyanoxantha-9e1d548f899a45a9acd54a5baea28b3f) — daicha2021, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Bunch of mushrooms](https://sketchfab.com/3d-models/bunch-of-mushrooms-9e49c850c57846eaad5f13517a2274e9) — 3dhdscan, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Ligneous mushroom](https://sketchfab.com/3d-models/ligneous-mushroom-a7fc532273d04b879b3785b766491cae) — Emm, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [CC0 シロクロハツ 🍄 Blackening Russula, R. albonigra](https://sketchfab.com/3d-models/cc0-blackening-russula-r-albonigra-a940e14cb7034bed86737000642cf1e6) — ffish.asia / floraZia.com, [CC0 Public Domain](http://creativecommons.org/publicdomain/zero/1.0/).
+- [Polypore Fungus - Photogrammetry Scan](https://sketchfab.com/3d-models/polypore-fungus-photogrammetry-scan-aa1079ad9aac440da348d4b48bdcdad2) — Sircher, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Birch tree](https://sketchfab.com/3d-models/birch-tree-aa842dffd9654d33b8b91170ce83c172) — evolveduk, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Reishi Mushroom](https://sketchfab.com/3d-models/reishi-mushroom-ab74ec90a0ed41a99b45d67ebc1ee3d3) — RISD Nature Lab, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Slippery jack (mushroom)](https://sketchfab.com/3d-models/slippery-jack-mushroom-acd89b5143194201a1b2bbdd8ccc493d) — Ivga, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Realistic Beech Fern Plant | Games | Film](https://sketchfab.com/3d-models/realistic-beech-fern-plant-games-film-adf1e8832cf74a8a94c98792fa1d9088) — 3D Environment Artist Shop, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [audio-CatMeow](https://commons.wikimedia.org/wiki/File:Meow_of_a_pleading_cat.oga) — Heismark, [Public domain (PD-self)](https://commons.wikimedia.org/wiki/Template:PD-self).
+  Mono PCM conversion and level normalization; leading silence removed for cat clips only. First meow excerpt (1.2 seconds). Adapted clip remains Public domain.
+- [audio-CatPurr](https://commons.wikimedia.org/wiki/File:Whiskers%27_purr_edit.ogg) — Adam Cuerden; edited by X!, [Public domain (PD-self)](https://commons.wikimedia.org/wiki/Template:PD-self).
+  Mono PCM conversion and level normalization; leading silence removed for cat clips only. Adapted clip remains Public domain.
+- [audio-DogBark](https://commons.wikimedia.org/wiki/File:Barking_of_a_dog_2.ogg) — Amada44, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+  Mono PCM conversion and level normalization; leading silence removed for cat clips only. Adapted clip remains CC BY-SA 3.0.
+- [European badger call, W1CDR0001490 BD4](https://commons.wikimedia.org/wiki/File:European_Badger_%28Meles_meles%29_%28W1CDR0001490_BD4%29.ogg) — Aubrey John Williams / The British Library Board, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+  Excerpt 4.6-6.6s; mono, 44.1 kHz, high-pass 130 Hz, level adjustment and 15ms edge fades. Adapted clip remains CC BY-SA 4.0.
+- [Grizzly bear warning vocalizations](https://www.nps.gov/media/video/view.htm?id=167B552D-C2B0-42E3-B8BF-DAF625303841) — National Park Service / Dan Bergum, [Public domain (US government)](https://www.nps.gov/yell/learn/photosmultimedia/soundlibrary.htm).
+  Excerpt 32.8-35.4s; mono, 44.1 kHz, high-pass 70 Hz, level adjustment and 15ms edge fades. Adapted clip remains Public domain (US government).
+- [Crow cawing while taking flight](https://freesound.org/people/nigelcoop/sounds/75162/) — nigelcoop, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+  Excerpt 0-1s; mono, 44.1 kHz, high-pass 250 Hz, level adjustment and 15ms edge fades. Adapted clip remains CC0 1.0.
+- [Deer2.wav - roe deer alarm](https://freesound.org/people/juskiddink/sounds/58661/) — juskiddink, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+  New recording, excerpt 9.18-10.2 s; mono 44.1 kHz, band-pass EQ, spectral background-noise reduction, level adjustment and 35 ms fades. No synthesis or pitch change. Adapted clip remains CC BY 4.0.
+- [foxBark2.wav](https://freesound.org/people/Setzilla/sounds/173208/) — Setzilla, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+  New recording, excerpt 0.6-1.5 s; mono 44.1 kHz, band-pass EQ, spectral background-noise reduction, level adjustment and 35 ms fades. No synthesis or pitch change. Adapted clip remains CC0 1.0.
+- [Mouse squeaks](https://freesound.org/people/shyguy014/sounds/463789/) — shyguy014, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+  Excerpt 17.45-18.2s; mono, 44.1 kHz, high-pass 1300 Hz, level adjustment and 15ms edge fades. Adapted clip remains CC0 1.0.
+- [European robin alarm call](https://freesound.org/people/inchadney/sounds/165527/) — inchadney, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+  Excerpt 6.4-7.2s; mono, 44.1 kHz, high-pass 1800 Hz, level adjustment and 15ms edge fades. Adapted clip remains CC0 1.0.
+- [House sparrow chirp](https://freesound.org/people/BeeProductive/sounds/383160/) — BeeProductive, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+  Excerpt 20.3-21.5s; mono, 44.1 kHz, high-pass 1500 Hz, level adjustment and 15ms edge fades. Adapted clip remains CC0 1.0.
+- [autumn_field_puresky](https://polyhaven.com/a/autumn_field_puresky) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [Portobello Mushroom](https://sketchfab.com/3d-models/portobello-mushroom-b5206d479baa4981802e71ca506c1489) — Kathrin&Christian, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Lab Mouse](https://sketchfab.com/3d-models/lab-mouse-b8817926c0c74e43b6664a3fb0f76960) — Just8, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [barrel_stove](https://polyhaven.com/a/barrel_stove) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [belfast_sunset_puresky](https://polyhaven.com/a/belfast_sunset_puresky) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [binoculars](https://polyhaven.com/a/binoculars) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [Snow v4](https://studio.blender.org/characters/snow/v4/) — Snow Rig (CC) Blender Foundation | studio.blender.org. Model: Julien Kaspar; rig: Demeter Dzadik. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted for forestVR: gameplay skeleton, VR retargeting, texture atlas and mesh LODs.
+- [brass_pan_01](https://polyhaven.com/a/brass_pan_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [brass_pot_02](https://polyhaven.com/a/brass_pot_02) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [brown_mud_leaves_01](https://polyhaven.com/a/brown_mud_leaves_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [Brown cup boletus (mushroom)](https://sketchfab.com/3d-models/brown-cup-boletus-mushroom-c5c21c6753f441efac9330316530870a) — Ivga, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [can_rusted](https://polyhaven.com/a/can_rusted) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [Corylus Avellana - Folla 2](https://sketchfab.com/3d-models/corylus-avellana-folla-2-cb0b9595e7854be19d43d2b02ba9af7b) — mglnx, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Bear](https://sketchfab.com/3d-models/bear-ce0d5eb86cf5459bb6bd20244cb44b27) — Nyilonelycompany, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Boletus edulis mushroom](https://sketchfab.com/3d-models/boletus-edulis-mushroom-d4ce6c6ce6e5449485936f9efb46a97c) — JevinJones, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Crow](https://sketchfab.com/3d-models/crow-d5a9b0df4da3493688b63ce42c8a83e2) — Alexei Ostapenko, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Blueberry](https://sketchfab.com/3d-models/blueberry-dcbc8838f37c432b9458a3d81c3d4a1c) — gtasan052, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [dead_tree_trunk](https://polyhaven.com/a/dead_tree_trunk) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [dead_tree_trunk_02](https://polyhaven.com/a/dead_tree_trunk_02) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [drawer_cabinet](https://polyhaven.com/a/drawer_cabinet) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [dry_branches_medium_01](https://polyhaven.com/a/dry_branches_medium_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [dry_decay_leaves](https://polyhaven.com/a/dry_decay_leaves) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [Coprinus Mushroom (free)](https://sketchfab.com/3d-models/coprinus-mushroom-free-e0d23bfc1bb94cda8c96f10d397bb98d) — Lesca 3D-Scan, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Bathroom Sink Cabinet](https://sketchfab.com/3d-models/bathroom-sink-cabinet-e5cf10304ffb4c11bc7841b584ccd706) — jimbogies, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Juniper](https://sketchfab.com/3d-models/juniper-e74c7156984542c2a4cdf6ce8a0c8e96) — evolveduk, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Lowpoly bird (Robin)](https://sketchfab.com/3d-models/lowpoly-bird-robin-e8083fd21a73438ca67b90307e6931e5) — Poliko, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Realistic cat - Pets for your project](https://sketchfab.com/3d-models/realistic-cat-pets-for-your-project-ec407d89f7304194bc04f2b4710eab8c) — Micael Martins, [Free Standard](https://sketchfab.com/licenses).
+- [CC0 オオクロニガイグチ？ 🍄 Bolete, Tylopilus alboater](https://sketchfab.com/3d-models/cc0-bolete-tylopilus-alboater-ed7d2c4c8b994c3795ab78aa674569f1) — ffish.asia / floraZia.com, [CC0 Public Domain](http://creativecommons.org/publicdomain/zero/1.0/).
+- [electric_stove](https://polyhaven.com/a/electric_stove) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [Pine Cone](https://sketchfab.com/3d-models/pine-cone-f606d751e51341bb807209c6404208ed) — ChrisLee, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [CC0 シロカイメンタケ？ 🍄 White Birch Polypore](https://sketchfab.com/3d-models/cc0-white-birch-polypore-f64c789aa5bf46c492ab7953b8dea31c) — ffish.asia / floraZia.com, [CC0 Public Domain](http://creativecommons.org/publicdomain/zero/1.0/).
+- [Brown Funnel Mushroom](https://sketchfab.com/3d-models/brown-funnel-mushroom-f8ef37ba2e0f4a37ba6b2e2635602670) — Replik8 Studios, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [Flat Screen Television](https://sketchfab.com/3d-models/flat-screen-television-f90d4fb91dd34b6791e8d66d00f96591) — HippoStance, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [fabric_pattern_05](https://polyhaven.com/a/fabric_pattern_05) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [Polyporus mushroom](https://sketchfab.com/3d-models/polyporus-mushroom-fc7ef8ede6bd4301a9fb51987c73f10d) — matousekfoto, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [CC0 タヌキノチャブクロ 🍄 Pear Shaped Puffball](https://sketchfab.com/3d-models/cc0-pear-shaped-puffball-fcd3e196019d46d8ab2a5c2c91f8354a) — ffish.asia / floraZia.com, [CC0 Public Domain](http://creativecommons.org/publicdomain/zero/1.0/).
+- [Realistic Trees Collection](https://sketchfab.com/3d-models/realistic-trees-collection-fe67c886eebf4bcb988d7c45e69995ad) — Jungle Jim, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [fern_02](https://polyhaven.com/a/fern_02) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [Stout Badger Standing Realistic](https://sketchfab.com/3d-models/stout-badger-standing-realistic-ff818ff55b454e11801f94426ff89c92) — Pigcraft, [CC Attribution](http://creativecommons.org/licenses/by/4.0/).
+- [fir_sapling](https://polyhaven.com/a/fir_sapling) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [fir_tree_01](https://polyhaven.com/a/fir_tree_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [fishermans_hat](https://polyhaven.com/a/fishermans_hat) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [folding_wooden_stool](https://polyhaven.com/a/folding_wooden_stool) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [forest_floor](https://polyhaven.com/a/forest_floor) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [forest_ground_04](https://polyhaven.com/a/forest_ground_04) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [forest_ground_05](https://polyhaven.com/a/forest_ground_05) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [forest_ground_06](https://polyhaven.com/a/forest_ground_06) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [forest_leaves_02](https://polyhaven.com/a/forest_leaves_02) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [forest_leaves_03](https://polyhaven.com/a/forest_leaves_03) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [forest_leaves_04](https://polyhaven.com/a/forest_leaves_04) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [forrest_ground_01](https://polyhaven.com/a/forrest_ground_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [grass_medium_01](https://polyhaven.com/a/grass_medium_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [grass_medium_02](https://polyhaven.com/a/grass_medium_02) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [grey_roof_tiles](https://polyhaven.com/a/grey_roof_tiles) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [kloofendal_48d_partly_cloudy_puresky](https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [kloofendal_misty_morning_puresky](https://polyhaven.com/a/kloofendal_misty_morning_puresky) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [kloofendal_overcast_puresky](https://polyhaven.com/a/kloofendal_overcast_puresky) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [Lantern_01](https://polyhaven.com/a/Lantern_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [leaves_forest_ground](https://polyhaven.com/a/leaves_forest_ground) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [long_life_food](https://polyhaven.com/a/long_life_food) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [medical_box](https://polyhaven.com/a/medical_box) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [metal_jerrycan](https://polyhaven.com/a/metal_jerrycan) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [metal_jug](https://polyhaven.com/a/metal_jug) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [metal_toolbox](https://polyhaven.com/a/metal_toolbox) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [modified_thermos](https://polyhaven.com/a/modified_thermos) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [modular_wooden_pier](https://polyhaven.com/a/modular_wooden_pier) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [moss_01](https://polyhaven.com/a/moss_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [mossy_forest](https://polyhaven.com/a/mossy_forest) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [mud_forest](https://polyhaven.com/a/mud_forest) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [Hymn to the Dawn](https://www.scottbuckley.com.au/library/hymn-to-the-dawn/) — 'Hymn To The Dawn' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+  First four minutes adapted into a 3:36 stereo loop using a 24-second equal-power tail/head crossfade; static gain -6.41 dB to -23 LUFS; PCM master at 48 kHz. Unity uses streamed Vorbis. No pitch change, synthesis or mono conversion. Adapted music remains CC BY 4.0.
+- [oak_wood_planks](https://polyhaven.com/a/oak_wood_planks) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [old_bed_frame](https://polyhaven.com/a/old_bed_frame) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [painted_wooden_bench](https://polyhaven.com/a/painted_wooden_bench) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [pine_roots](https://polyhaven.com/a/pine_roots) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [pine_tree_01](https://polyhaven.com/a/pine_tree_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [plastic_thermos](https://polyhaven.com/a/plastic_thermos) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [pot_enamel_01](https://polyhaven.com/a/pot_enamel_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [qwantani_late_afternoon_puresky](https://polyhaven.com/a/qwantani_late_afternoon_puresky) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [qwantani_moonrise_puresky](https://polyhaven.com/a/qwantani_moonrise_puresky) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [qwantani_night_puresky](https://polyhaven.com/a/qwantani_night_puresky) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [qwantani_sunset_puresky](https://polyhaven.com/a/qwantani_sunset_puresky) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [rock_face_01](https://polyhaven.com/a/rock_face_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [rock_face_02](https://polyhaven.com/a/rock_face_02) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [rock_moss_set_01](https://polyhaven.com/a/rock_moss_set_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [rock_moss_set_02](https://polyhaven.com/a/rock_moss_set_02) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [rocky_terrain_02](https://polyhaven.com/a/rocky_terrain_02) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [root_cluster_01](https://polyhaven.com/a/root_cluster_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [rusted_spade_01](https://polyhaven.com/a/rusted_spade_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [seadogs_compass](https://polyhaven.com/a/seadogs_compass) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [shrub_01](https://polyhaven.com/a/shrub_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [shrub_02](https://polyhaven.com/a/shrub_02) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [shrub_03](https://polyhaven.com/a/shrub_03) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [shrub_04](https://polyhaven.com/a/shrub_04) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [shrub_sorrel_01](https://polyhaven.com/a/shrub_sorrel_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [signal_flashlight](https://polyhaven.com/a/signal_flashlight) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [small_plastic_torch](https://polyhaven.com/a/small_plastic_torch) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [sofa_02](https://polyhaven.com/a/sofa_02) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [stone_01](https://polyhaven.com/a/stone_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [stone_fire_pit](https://polyhaven.com/a/stone_fire_pit) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [television_02](https://polyhaven.com/a/television_02) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [tree_stump_01](https://polyhaven.com/a/tree_stump_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [tree_stump_02](https://polyhaven.com/a/tree_stump_02) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [vintage_binocular](https://polyhaven.com/a/vintage_binocular) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [vintage_electric_kettle](https://polyhaven.com/a/vintage_electric_kettle) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [vintage_flashlight](https://polyhaven.com/a/vintage_flashlight) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [vintage_oil_lamp](https://polyhaven.com/a/vintage_oil_lamp) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [vintage_suitcase](https://polyhaven.com/a/vintage_suitcase) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [wasteland_clouds_puresky](https://polyhaven.com/a/wasteland_clouds_puresky) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [weathered_brown_planks](https://polyhaven.com/a/weathered_brown_planks) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [wicker_basket_01](https://polyhaven.com/a/wicker_basket_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [wicker_basket_02](https://polyhaven.com/a/wicker_basket_02) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [wine_barrel_01](https://polyhaven.com/a/wine_barrel_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [wine_bottles_01](https://polyhaven.com/a/wine_bottles_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [winter_leaves](https://polyhaven.com/a/winter_leaves) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [wood_plank_wall](https://polyhaven.com/a/wood_plank_wall) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [wooden_barrels_01](https://polyhaven.com/a/wooden_barrels_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [wooden_bowl_01](https://polyhaven.com/a/wooden_bowl_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [wooden_bucket_01](https://polyhaven.com/a/wooden_bucket_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [wooden_bucket_02](https://polyhaven.com/a/wooden_bucket_02) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [wooden_crate_01](https://polyhaven.com/a/wooden_crate_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [wooden_crate_02](https://polyhaven.com/a/wooden_crate_02) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [wooden_cutting_board](https://polyhaven.com/a/wooden_cutting_board) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [wooden_ladder](https://polyhaven.com/a/wooden_ladder) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [wooden_lantern_01](https://polyhaven.com/a/wooden_lantern_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [wooden_picnic_table](https://polyhaven.com/a/wooden_picnic_table) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [wooden_spoon](https://polyhaven.com/a/wooden_spoon) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- [wooden_stool_01](https://polyhaven.com/a/wooden_stool_01) — Poly Haven, [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+Ground shader: Unity URP 17 TerrainLit, copyright Unity Technologies ApS. [Unity Companion License](https://unity.com/legal/licenses/unity-companion-license). Forward pass adapted for adjustable floor reflections.

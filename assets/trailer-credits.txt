@@ -1,0 +1,526 @@
+ForestVR — promotional film: VR gameplay and co-op feature revision
+
+Gathering, basket pouring, cooking and the successful meal are the user's own Meta Quest recordings supplied on 2026-10-16. Gathering is trimmed by 3 seconds at the start and 2 at the end. Cooking is trimmed by 1 second at the start and 2 at the end. Both remaining intervals are continuous and run at normal speed; only frame-rate conformance and boundary dissolves are applied. No cooking wait has been removed. Original audio is preserved in the separately trimmed clips; the trailer uses the continuous licensed music soundtrack.
+
+The male and female co-op feature scene is staged in-engine on PC with the game's approved multiplayer avatar models (Blender Studio Snow and Female worker) and standing reach/pull/deposit animation. It illustrates the multiplayer feature; it is not a recording of a live connected network session. Cat/dog following uses the current game AI and updated motion. Scenery is existing PC in-game footage. No external pre-rendered scenery, AI models or replacement renders are used.
+
+The earlier trailers and source recordings are preserved. ForestVR development footage, versions 0.10.66–0.10.67.
+
+'Hymn To The Dawn' by Scott Buckley — released under CC BY 4.0. www.scottbuckley.com.au
+Source: https://www.scottbuckley.com.au/library/hymn-to-the-dawn/
+License: https://creativecommons.org/licenses/by/4.0/
+Changes: excerpt, volume adjustment and fade-in/out.
+
+Visual asset attributions from the game follow. Included conservatively in full; not every asset appears in this film.
+
+ASSET CREDITS
+
+Poly Haven — scanned environment, furniture and textures
+polyhaven.com / CC0 1.0
+creativecommons.org/publicdomain/zero/1.0
+
+Sketchfab model authors and source links follow.
+CC BY 4.0: creativecommons.org/licenses/by/4.0
+
+Assets are free and permit commercial use
+under their stated license terms.
+The cat uses Sketchfab Free Standard.
+
+Meshes, textures, LOD and animation adapted for Quest.
+Full attribution is bundled in ASSET_CREDITS.md.
+
+ASSET AUTHORS
+
+Armillaria Mellea
+by cesar.lomas
+sketchfab.com/models/0561d44b1fae472d972cc2ca9049b95a
+CC Attribution
+
+Beech tree
+by evolveduk
+sketchfab.com/models/0983d8933531491f9be71c669e8a907b
+CC Attribution
+
+Hazel Tree
+by rhcreations
+sketchfab.com/models/0d345f65125747d0b9f2223e603d0a0a
+CC Attribution
+
+Mushrooms - Blue Oyster
+by Hialda Alpizar
+sketchfab.com/models/0de8bc6c368f4870a8ece254783feeec
+CC Attribution
+
+ASSET AUTHORS
+
+CC0 シロオニタケ 🍄 False Virgin's Lepidella
+by ffish.asia / floraZia.com
+sketchfab.com/models/0e8915aecf11497e906f839d157bfd0b
+CC0 Public Domain
+
+Heather
+by Arnau Rocher Alcayde
+sketchfab.com/models/109204e9a5c74ec390f374ac62e92196
+CC Attribution
+
+Dog
+by ilan2006er
+sketchfab.com/models/10cd2e1da68743ae8be636ff747d473b
+CC Attribution
+
+Sparrow
+by Chenchanchong
+sketchfab.com/models/11b5b94688bc4ee380849585086da98a
+CC Attribution
+
+ASSET AUTHORS
+
+Toilet
+by HippoStance
+sketchfab.com/models/132a8ee2af3a40d39d270fbed3d3666c
+CC Attribution
+
+CC0 アミガサタケ 🍄 Common Morel, Morchella esculenta
+by ffish.asia / floraZia.com
+sketchfab.com/models/1a1647d50d3d4ea1b4e59375d91ca6bc
+CC0 Public Domain
+
+(Free) Realistic Blackberry
+by PolyDavid
+sketchfab.com/models/2156342d985749b6ad9d362341277231
+CC Attribution
+
+Russula cyanoxantha （カワリハツ）
+by daicha2021
+sketchfab.com/models/22f32f1e8a964198b3b8f7db98fa4239
+CC Attribution
+
+ASSET AUTHORS
+
+Mushroom Begbie
+by Replik8 Studios
+sketchfab.com/models/23be0719bed74fd2a49fdd45332db597
+CC Attribution
+
+Cortinarius violaceus mushroom
+by JevinJones
+sketchfab.com/models/2b35ebe5114a40b09cc627ff8dd4cf3e
+CC Attribution
+
+red mushroom Russula
+by Andykk
+sketchfab.com/models/2e0b973ec97f455d94fd610a4b8c84f0
+CC Attribution
+
+Red Fox Standing Pose Realistic
+by Pigcraft
+sketchfab.com/models/3278bddb17024f3287aa374cc1e9f6f6
+CC Attribution
+
+ASSET AUTHORS
+
+Red Polypore
+by RISD Nature Lab
+sketchfab.com/models/379ea0b57d964bea8e892a2e73c2998b
+CC Attribution
+
+Sambucus Nigra 3
+by mglnx
+sketchfab.com/models/3ee4aa7633084af5a064373314b0548a
+CC Attribution
+
+Tricholoma murrillianum mushroom
+by JevinJones
+sketchfab.com/models/4949f967e01c480388c5b32c48598c22
+CC Attribution
+
+Russula sardonia
+by Tadeas Kribek
+sketchfab.com/models/4a86a5a7d4a445f1a542163578aaa0fa
+CC Attribution
+
+ASSET AUTHORS
+
+Girl with clothes. Worker set
+by cattleya
+sketchfab.com/models/4cf10e2dde6d4b12b6dccd25a4cf3b77
+CC Attribution
+
+Animated Deer
+by igor-lir
+sketchfab.com/models/4cff1e63f4e941198b3d56300b3393b9
+CC Attribution
+
+Mighty Oak Trees
+by Jagobo
+sketchfab.com/models/4f6ab5594a8a415aba3f958682b9ced5
+CC Attribution
+
+Plant Pot Ivy
+by anybody
+sketchfab.com/models/507dae90a1f541e0a3e2ccbee5abc333
+CC Attribution
+
+ASSET AUTHORS
+
+Clitocybe nebularis
+by Tadeas Kribek
+sketchfab.com/models/5926e71980c043c68f16b836bd0184e2
+CC Attribution
+
+Hand With Gloves
+by JUST
+sketchfab.com/models/5a6a434b8ec943ffacc581358781eecb
+CC Attribution
+
+Orange Lactarius
+by Skyler Young
+sketchfab.com/models/63313cb77cad48618cc02cf57f851061
+CC Attribution
+
+Orange Birch Bolete
+by Nik
+sketchfab.com/models/65602efb8e14441f8c05e0b93767dee1
+CC Attribution
+
+ASSET AUTHORS
+
+Ovčarska lupljivka Suillus granullatus
+by Prirodoslovni muzej Slovenije
+sketchfab.com/models/7121bfed5348455cb3bd17274101c648
+CC Attribution
+
+Chanterelle Mushroom
+by MTR Magic Key 🗝️
+sketchfab.com/models/75e3ea25e90a45028a058701d6f0c22c
+CC Attribution
+
+Realistic Deer
+by pighunt3r15
+sketchfab.com/models/76039b75cdc0492a80680c2404725496
+CC Attribution
+
+Mushroom
+by Asia Matusik
+sketchfab.com/models/767a395d901d40128eb6c18bc64bd202
+CC Attribution
+
+ASSET AUTHORS
+
+(Free) Raspberry
+by PolyDavid
+sketchfab.com/models/7812cccf18114ecfaea2e250b7162040
+CC Attribution
+
+Shaggy Parasol Mushroom (Mature + Young)
+by Thomas Flynn
+sketchfab.com/models/7987d22903294567842a5304fcd542f5
+CC Attribution
+
+Zelenkasta Golobica Russula virescens
+by Prirodoslovni muzej Slovenije
+sketchfab.com/models/7da28231cfa4437ba81a011fb8aa26c1
+CC Attribution
+
+Macrolepiota procera
+by Tadeas Kribek
+sketchfab.com/models/80edb9e8104f4995aac3dd0dcd3fc4d6
+CC Attribution
+
+ASSET AUTHORS
+
+Cantharellus formosus mushroom
+by JevinJones
+sketchfab.com/models/81b06e5fb337405b9d277048a39758f8
+CC Attribution
+
+Stock Pot Range
+by Luis Fernando Rómulo
+sketchfab.com/models/8d64956f6b284dab9a114396d8223faf
+CC Attribution
+
+CC0 ハナイグチ？ 🍄 Slippery Jack Mushroom
+by ffish.asia / floraZia.com
+sketchfab.com/models/90b3553fb3fd479eac39b616078f56cf
+CC0 Public Domain
+
+fern grass 02
+by POLYSCAN
+sketchfab.com/models/93d1f6a261e24b8394d0ea41cf985ef9
+CC Attribution
+
+ASSET AUTHORS
+
+Fly Agaric (Amanita muscaria) Mushroom | UK
+by Arb Innovators
+sketchfab.com/models/9ca8f239deb940f6aee3355e33bb594f
+CC Attribution
+
+Russula cyanoxantha (カワリハツ）
+by daicha2021
+sketchfab.com/models/9e1d548f899a45a9acd54a5baea28b3f
+CC Attribution
+
+Bunch of mushrooms
+by 3dhdscan
+sketchfab.com/models/9e49c850c57846eaad5f13517a2274e9
+CC Attribution
+
+Ligneous mushroom
+by Emm
+sketchfab.com/models/a7fc532273d04b879b3785b766491cae
+CC Attribution
+
+ASSET AUTHORS
+
+CC0 シロクロハツ 🍄 Blackening Russula, R. albonigra
+by ffish.asia / floraZia.com
+sketchfab.com/models/a940e14cb7034bed86737000642cf1e6
+CC0 Public Domain
+
+Polypore Fungus - Photogrammetry Scan
+by Sircher
+sketchfab.com/models/aa1079ad9aac440da348d4b48bdcdad2
+CC Attribution
+
+Birch tree
+by evolveduk
+sketchfab.com/models/aa842dffd9654d33b8b91170ce83c172
+CC Attribution
+
+Reishi Mushroom
+by RISD Nature Lab
+sketchfab.com/models/ab74ec90a0ed41a99b45d67ebc1ee3d3
+CC Attribution
+
+ASSET AUTHORS
+
+Slippery jack (mushroom)
+by Ivga
+sketchfab.com/models/acd89b5143194201a1b2bbdd8ccc493d
+CC Attribution
+
+Realistic Beech Fern Plant | Games | Film
+by 3D Environment Artist Shop
+sketchfab.com/models/adf1e8832cf74a8a94c98792fa1d9088
+CC Attribution
+
+audio-CatMeow
+by Heismark
+commons.wikimedia.org/wiki/File:Meow_of_a_pleading_cat.oga
+Public domain (PD-self); adapted: excerpt, mono, EQ, levels, fades.
+commons.wikimedia.org/wiki/Template:PD-self
+
+audio-CatPurr
+by Adam Cuerden; edited by X!
+commons.wikimedia.org/wiki/File:Whiskers'_purr_edit.ogg
+Public domain (PD-self); adapted: excerpt, mono, EQ, levels, fades.
+commons.wikimedia.org/wiki/Template:PD-self
+
+ASSET AUTHORS
+
+audio-DogBark
+by Amada44
+commons.wikimedia.org/wiki/File:Barking_of_a_dog_2.ogg
+CC BY-SA 3.0; adapted: excerpt, mono, EQ, levels, fades.
+creativecommons.org/licenses/by-sa/3.0/
+
+European badger call, W1CDR0001490 BD4
+by Aubrey John Williams / The British Library Board
+commons.wikimedia.org/wiki/File:European_Badger_(Meles_meles)_(W1CDR0001490_BD4).ogg
+CC BY-SA 4.0; adapted: excerpt, mono, EQ, levels, fades.
+creativecommons.org/licenses/by-sa/4.0/
+
+Grizzly bear warning vocalizations
+by National Park Service / Dan Bergum
+www.nps.gov/media/video/view.htm?id=167B552D-C2B0-42E3-B8BF-DAF625303841
+Public domain (US government); adapted: excerpt, mono, EQ, levels, fades.
+www.nps.gov/yell/learn/photosmultimedia/soundlibrary.htm
+
+Crow cawing while taking flight
+by nigelcoop
+freesound.org/people/nigelcoop/sounds/75162/
+CC0 1.0; adapted: excerpt, mono, EQ, levels, fades.
+creativecommons.org/publicdomain/zero/1.0/
+
+ASSET AUTHORS
+
+Deer2.wav - roe deer alarm
+by juskiddink
+freesound.org/people/juskiddink/sounds/58661/
+CC BY 4.0; adapted: excerpt, mono, EQ, levels, fades.
+creativecommons.org/licenses/by/4.0/
+
+foxBark2.wav
+by Setzilla
+freesound.org/people/Setzilla/sounds/173208/
+CC0 1.0; adapted: excerpt, mono, EQ, levels, fades.
+creativecommons.org/publicdomain/zero/1.0/
+
+Mouse squeaks
+by shyguy014
+freesound.org/people/shyguy014/sounds/463789/
+CC0 1.0; adapted: excerpt, mono, EQ, levels, fades.
+creativecommons.org/publicdomain/zero/1.0/
+
+European robin alarm call
+by inchadney
+freesound.org/people/inchadney/sounds/165527/
+CC0 1.0; adapted: excerpt, mono, EQ, levels, fades.
+creativecommons.org/publicdomain/zero/1.0/
+
+ASSET AUTHORS
+
+House sparrow chirp
+by BeeProductive
+freesound.org/people/BeeProductive/sounds/383160/
+CC0 1.0; adapted: excerpt, mono, EQ, levels, fades.
+creativecommons.org/publicdomain/zero/1.0/
+
+Portobello Mushroom
+by Kathrin&Christian
+sketchfab.com/models/b5206d479baa4981802e71ca506c1489
+CC Attribution
+
+Lab Mouse
+by Just8
+sketchfab.com/models/b8817926c0c74e43b6664a3fb0f76960
+CC Attribution
+
+Snow Rig (CC) Blender Foundation | studio.blender.org
+Model: Julien Kaspar; rig: Demeter Dzadik
+studio.blender.org/characters/snow/v4/
+CC BY 4.0 / creativecommons.org/licenses/by/4.0/
+Adapted: gameplay skeleton, VR retargeting, texture atlas and mesh LODs.
+
+ASSET AUTHORS
+
+Brown cup boletus (mushroom)
+by Ivga
+sketchfab.com/models/c5c21c6753f441efac9330316530870a
+CC Attribution
+
+Corylus Avellana - Folla 2
+by mglnx
+sketchfab.com/models/cb0b9595e7854be19d43d2b02ba9af7b
+CC Attribution
+
+Bear
+by Nyilonelycompany
+sketchfab.com/models/ce0d5eb86cf5459bb6bd20244cb44b27
+CC Attribution
+
+Boletus edulis mushroom
+by JevinJones
+sketchfab.com/models/d4ce6c6ce6e5449485936f9efb46a97c
+CC Attribution
+
+ASSET AUTHORS
+
+Crow
+by Alexei Ostapenko
+sketchfab.com/models/d5a9b0df4da3493688b63ce42c8a83e2
+CC Attribution
+
+Blueberry
+by gtasan052
+sketchfab.com/models/dcbc8838f37c432b9458a3d81c3d4a1c
+CC Attribution
+
+Coprinus Mushroom (free)
+by Lesca 3D-Scan
+sketchfab.com/models/e0d23bfc1bb94cda8c96f10d397bb98d
+CC Attribution
+
+Bathroom Sink Cabinet
+by jimbogies
+sketchfab.com/models/e5cf10304ffb4c11bc7841b584ccd706
+CC Attribution
+
+ASSET AUTHORS
+
+Juniper
+by evolveduk
+sketchfab.com/models/e74c7156984542c2a4cdf6ce8a0c8e96
+CC Attribution
+
+Lowpoly bird (Robin)
+by Poliko
+sketchfab.com/models/e8083fd21a73438ca67b90307e6931e5
+CC Attribution
+
+Realistic cat - Pets for your project
+by Micael Martins
+sketchfab.com/models/ec407d89f7304194bc04f2b4710eab8c
+Free Standard
+
+CC0 オオクロニガイグチ？ 🍄 Bolete, Tylopilus alboater
+by ffish.asia / floraZia.com
+sketchfab.com/models/ed7d2c4c8b994c3795ab78aa674569f1
+CC0 Public Domain
+
+ASSET AUTHORS
+
+Pine Cone
+by ChrisLee
+sketchfab.com/models/f606d751e51341bb807209c6404208ed
+CC Attribution
+
+CC0 シロカイメンタケ？ 🍄 White Birch Polypore
+by ffish.asia / floraZia.com
+sketchfab.com/models/f64c789aa5bf46c492ab7953b8dea31c
+CC0 Public Domain
+
+Brown Funnel Mushroom
+by Replik8 Studios
+sketchfab.com/models/f8ef37ba2e0f4a37ba6b2e2635602670
+CC Attribution
+
+Flat Screen Television
+by HippoStance
+sketchfab.com/models/f90d4fb91dd34b6791e8d66d00f96591
+CC Attribution
+
+ASSET AUTHORS
+
+Polyporus mushroom
+by matousekfoto
+sketchfab.com/models/fc7ef8ede6bd4301a9fb51987c73f10d
+CC Attribution
+
+CC0 タヌキノチャブクロ 🍄 Pear Shaped Puffball
+by ffish.asia / floraZia.com
+sketchfab.com/models/fcd3e196019d46d8ab2a5c2c91f8354a
+CC0 Public Domain
+
+Realistic Trees Collection
+by Jungle Jim
+sketchfab.com/models/fe67c886eebf4bcb988d7c45e69995ad
+CC Attribution
+
+Stout Badger Standing Realistic
+by Pigcraft
+sketchfab.com/models/ff818ff55b454e11801f94426ff89c92
+CC Attribution
+
+BACKGROUND MUSIC
+
+Hymn to the Dawn
+by Scott Buckley
+www.scottbuckley.com.au
+
+Creative Commons Attribution 4.0
+creativecommons.org/licenses/by/4.0/
+
+Source:
+scottbuckley.com.au/library/hymn-to-the-dawn/
+
+Adapted: excerpt, crossfade loop,
+volume adjustment and Vorbis encoding.
+
+RENDERING
+
+Ground shader adapts Unity URP TerrainLit.
+Copyright Unity Technologies ApS
+Unity Companion License
+unity.com/legal/licenses/unity-companion-license
